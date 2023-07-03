@@ -1,4 +1,4 @@
-# What is programming language?
+# What is a programming language?
 
 Language is a vocabulary that helps a person to pass our message to other person. In daily life we communicate with others in languages like Hindi, English, punjabi etc. Just like this we communicate with the computing devices. Some popular languages are C++, Java, python, JS, Golang etc.
 
@@ -25,7 +25,7 @@ Note :- Each layer can be implemented in many languages and companies have imple
 
 ### Frontend Layer
 
-This layer is bascially what user is seeing or interacting with while using the application. Everything on the interface you are see like buttons, images, text everthing are presented in an app with the help of Frontend programming languages.
+This layer is bascially what client or user is seeing or interacting with while using the application. Everything on the interface you are see like buttons, images, text everthing are presented in an app with the help of Frontend programming languages.
 
 #### Languages and libraries for Frontend
 
@@ -33,11 +33,28 @@ This layer is bascially what user is seeing or interacting with while using the 
 
 - React, Angular, Vue are some java script libraries which are in high demand in career opportunity in front end devloper roles.
 
-#### Resources
+#### Resources for frontend
 
-- Namaste Javascript youtube Channel
-- Code with Harry
-- Udemy courses
+- [Code with Harry javascript for beginners](https://youtu.be/hKB-YGF14SY)
+- [Namaste Javascript youtube Channel](https://www.youtube.com/playlist?list=PLlasXeu85E9cQ32gLCvAvr9vNaUccPVNP)
+- [Documentation](https://legacy.reactjs.org/docs/getting-started.html)
+- [Udemy courses](https://www.udemy.com/courses/search/?src=ukw&q=web+devlopment)
+
+### Backend Layer
+
+This is the logic layer that runs on the server and full fill the client requests coming from frontend layer. In this layer we write the logic to retrieve the data from the database and send the response.
+
+#### Languages and libraries for Backend
+
+- Java is one of the most demanded language in implementing the backend layer. Spring boot framework implemented in java is used to implement the backend layer logic for client requests.
+
+- Python is other most used language and th framework we have in python to implement the backend layer is django.
+
+- Javascript also have a framework name as node to create a backend application.
+
+- Golang features such as fast, scalable, powerful libraries are the reason that is replacing above languages in implementing backend layer.
+
+#### Resources for backend
 
 ## Android application
 
