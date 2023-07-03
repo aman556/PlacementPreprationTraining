@@ -14,7 +14,7 @@ All the applications we use daily like instagram, youtube, facebook, google etc 
 
 ## Web application
 
-These kind of applications are not hosted or we can say running in your mobile phone, laptop, or desktop. They are running on a remote [server](../Vocabulary/ComputerScienceVocabulary.md?plain=3) (some computer at another location that can be access by others). To access these web applications we use different web browsers like google chrome(Own by Google), Bings(by Microdoft), Safari(by Apple).
+These kind of applications are not hosted or we can say running in your mobile phone, laptop, or desktop. They are running on a remote [server](../Vocabulary/ComputerScienceVocabulary.md?plain=6) (some computer at another location that can be access by others). To access these web applications we use different web browsers like google chrome(Own by Google), Bings(by Microdoft), Safari(by Apple).
 
 A web application basically consists of three different layers.
     - Frontend layer
