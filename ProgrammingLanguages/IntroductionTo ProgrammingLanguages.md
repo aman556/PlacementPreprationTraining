@@ -48,7 +48,7 @@ This is the logic layer that runs on the server and full fill the client request
 
 - Java is one of the most demanded language in implementing the backend layer. Spring boot framework implemented in java is used to implement the backend layer logic for client requests.
 
-- Python is other most used language and th framework we have in python to implement the backend layer is django.
+- Python is other most used language and the framework we have in python to implement the backend layer is django.
 
 - Javascript also have a framework name as node to create a backend application.
 
